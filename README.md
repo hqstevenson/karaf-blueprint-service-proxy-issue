@@ -1,0 +1,1 @@
+# karaf-blueprint-service-proxy-issue
